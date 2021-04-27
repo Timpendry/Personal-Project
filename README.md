@@ -13,3 +13,7 @@ Visualization - The best visualization to summarize and describe my dataset is s
 
 Analysis - The line plot captures the overall relationship very well, but I was curious whether private sector union membership or public sector union membership had a larger effect on earnings, both for the top 5% and the middle 60%. To test this, I ran several bivariate regression models. 
 
+
+
+file:///Users/timpendry/Desktop/Data%20Analysis/Personal%20Project%20/Personal-Project-attempt-1.html
+
