@@ -9,7 +9,7 @@ Column names "one", "two", "three", "four", and "five" refer to the share of agg
 
 
 Visualization - The best visualization to summarize and describe my dataset is simple line plot. On it, one can see that the overall rate of union membership(shown in blue) has fallen steadily since 1973, when observations begin. Similarly, the share of income recieved by the middle 60% of the nation (shown in brown) also declined steadily. Displaying the opposite trend, the share of income going to the top 5% of earners (shown in red) trends steadily upward. 
-[Visualization copy.pdf](https://github.com/Timpendry/Personal-Project/files/6381845/Visualization.copy.pdf)
+![](Visualization.png)
 
 
 Analysis - The line plot captures the overall relationship very well, but I was curious whether private sector union membership or public sector union membership had a larger effect on earnings, both for the top 5% and the middle 60%. To test this, I ran several bivariate regression models. I ran six bivariate regressions, testing the effect of Union membership - private sector, public sector, and all workers - on the share of income recieved by the top 5% and the middle 60%. The overall union membership was strongly correlated with higher earnings by the middle 60% of the population and strongly correlated with a lower share of income going to the top 5%. A 1% increase in overall union membership is correlated with an increase in the aggregate income recieved by the middle 60% of .47%. The same increase in Union membership is correlated with the top 5% of earners recieving .46% less of aggregate income. 
