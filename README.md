@@ -1,6 +1,3 @@
-
-
-[Visualization copy.pdf](https://github.com/Timpendry/Personal-Project/files/6381845/Visualization.copy.pdf)
 # Data 115 Personal Project
 # Personal Data Set 
 In the past several months, much attention has been devoted to the efforts of an Alabama Amazon warehouse to form Amazon's first Union. While unions were instrumental to shaping labour law standards in the United States in the early and mid 20th century, in recent years Union membership has declined, partly due to legal restrictions which have been passed in many areas making it harder for workers to unionize. I set out to learn more about the relationship between Union Membership and Income Inequality in the United States, hypothesizing that Unions have a positive relationship with the share of income going to middle class workers. The data I gathered are from the U.S. Historical Tables on Union Membership, Coverage, Density and Employment found on Unionstats.com, an internet resource providing extensive data on union membership rates. To explore income inequality, I gathered data from the U.S Census Historical Income Tables (Table H-2), which show the aggregate share of income recieved by each fifth of the population, and the top five percent. Together, the data I compiled are ideally suited to explore how union membership - public sector, private sector, and overall rates- affect income inequality, measured as the share of income going to the top 5% and middle 60% of the country.
@@ -12,6 +9,7 @@ Column names "one", "two", "three", "four", and "five" refer to the share of agg
 
 
 Visualization - The best visualization to summarize and describe my dataset is simple line plot. On it, one can see that the overall rate of union membership(shown in blue) has fallen steadily since 1973, when observations begin. Similarly, the share of income recieved by the middle 60% of the nation (shown in brown) also declined steadily. Displaying the opposite trend, the share of income going to the top 5% of earners (shown in red) trends steadily upward. 
+[Visualization copy.pdf](https://github.com/Timpendry/Personal-Project/files/6381845/Visualization.copy.pdf)
 
 
 Analysis - The line plot captures the overall relationship very well, but I was curious whether private sector union membership or public sector union membership had a larger effect on earnings, both for the top 5% and the middle 60%. To test this, I ran several bivariate regression models. 
